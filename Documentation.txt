@@ -1,0 +1,7 @@
+Untuk menjalankan test case Sign In dan Sign Up Amazon, lakukan langkah berikut:
+1. Simpan repository pada sebuah direktori 
+2. Buka command prompt (Windows) atau command line (Linux)
+3. Masuk ke direktori dimana repository tersimpan
+4. Kemudian ketikkan 'cucumber' pada direktori tersebut
+5. Tunggu hingga run test script selesai
+6. Pada layar command prompt atau command line akan tampil hasil otomasi
